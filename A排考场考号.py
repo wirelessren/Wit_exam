@@ -3,7 +3,7 @@ import openpyxl
 from datetime import datetime
 
 #基础参数设置
-file_name="0000.xlsx" #汇总名单文件名
+file_name="AAA.xlsx" #汇总名单文件名
 kao_name="高二年级5月考试考场安排" #本次考试名称
 lie=6		#填充第几列
 #基础参数设置OK
